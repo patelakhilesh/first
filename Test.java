@@ -1,5 +1,5 @@
 public class Test {
 	public static void main(String arg[]){
-		System.out.println("First comment by second repo");
+		System.out.println("First comment by first repo");
 	}
 }

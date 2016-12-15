@@ -1,0 +1,9 @@
+public class Test {
+<<<<<<< HEAD
+	public static void main(String arg[]){
+=======
+	protected static void main(String arg[]){
+>>>>>>> origin/master
+		System.out.println("Hello World");
+	}
+}

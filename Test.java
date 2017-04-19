@@ -6,7 +6,7 @@ public class Test {
 		int k;
 		int l;
 	}
-}
+
 	}
 	public int hi;
 }

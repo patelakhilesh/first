@@ -9,4 +9,8 @@ public class Test {
 
 	}
 	public int hi;
+	
+	public void xyz(){
+		
+	}
 }
